@@ -4,43 +4,36 @@
 
 # CloudBSD
 
-### The Next Generation Cloud Platform
+### The Sovereign Virtualization Platform Built on FreeBSD
 
-Harness the legendary power, security, and stability of FreeBSD for your cloud infrastructure.
+High-density, resilient cluster virtualization engineered as an open enterprise hypervisor platform.
 
-[Website](https://cloudbsd.org) · [Discord](https://discord.gg/8KYawCuG)
+[cloudbsd.ai](https://cloudbsd.ai) · [cloudbsd.org](https://cloudbsd.org) · [Discord](https://discord.gg/8KYawCuG)
 
 </div>
 
 ---
 
-## About
+## The Vision
 
-CloudBSD is a comprehensive distribution built upon FreeBSD, designed to provide a robust environment for hosting assets like Jails, Virtual Machines (Bhyve), and both Linux and FreeBSD OCI containers.
+CloudBSD transforms FreeBSD into a cohesive, production-grade cluster virtualization platform designed to replace legacy enterprise hypervisor stacks. 
 
-It focuses on seamless system discovery, automated worker node installation, and centralized management via a powerful Controller Service.
+By combining the proven stability, security, and storage architecture of FreeBSD with autonomous AI-driven fleet management, CloudBSD delivers a complete operating ecosystem across bare metal, server appliances, and workstation environments.
 
-## Features
+## Core Pillars
 
-- **Controller Service** — a central configuration point for your entire network. Manage Jails, VMs, and Containers from one place.
-- **Worker Nodes** — orchestrated resource management with PXE boot support for effortless base OS deployment.
-- **Bhyve Virtualization** — full Bhyve VMM integration for high-performance virtual hosts and hardware passthrough.
-- **Jails & Isolation** — FreeBSD-native Jails and Bhyve provide high-density, low-overhead isolation with strong security boundaries.
-- **GPU Passthrough** — advanced hardware discovery and PCI passthrough support to share and manage GPU resources effectively.
-- **ZFS Storage** — storage reliability with built-in data integrity, encryption support, and instant snapshotting.
-- **Secure by Default** — mandatory HTTPS with automated certificate management and automatic redirection of insecure ports.
-- **Access Control** — centralized user management, SSH key distribution, and role-based authorization.
+- **Enterprise Cluster Virtualization** — High-density isolation with native FreeBSD Jails and high-performance Bhyve virtual machines, providing an open, resilient alternative to proprietary hypervisor clusters.
+- **Unified Workload Runtime** — First-class support for virtual machines, jails, and OCI containers side-by-side on a shared, secure substrate.
+- **ZFS Storage Fabric** — Native data integrity, instant point-in-time snapshots, built-in encryption, and continuous replication.
+- **AI-Managed Fleet Operations** — Autonomous intelligence placed directly in front of cluster infrastructure to handle discovery, orchestration, diagnostics, and operational health.
+- **Complete System Family** — Cohesive platforms spanning server infrastructure, appliances, and a tailored developer desktop.
 
-## Projects
+## The Ecosystem
 
-- **CloudBSD Desktop** — a developer-first desktop built on CloudBSD.
-- **HackMiami** — a security lab desktop, built on CloudBSD.
-- **[application_guidelines](https://github.com/cloudbsdorg/application_guidelines)** — how products made for CloudBSD should behave.
-- **[aeolus-examples](https://github.com/cloudbsdorg/aeolus-examples)** — FreeBSD OCI images and ensemble examples.
+- **[cloudbsdai](https://github.com/cloudbsdai)** — Operational catalogues, inspection surfaces, and AI management layers ([cloudbsd.ai](https://cloudbsd.ai)).
+- **[revytechinc](https://github.com/revytechinc)** & **[revytechai](https://github.com/revytechai)** — Enterprise deployment, hardened consulting, and engineering studio ([revytechinc.ai](https://revytechinc.ai) / [revytechinc.com](https://revytechinc.com)).
 
-## Community
-
-Get help, share ideas, and contribute to the future of CloudBSD on [Discord](https://discord.gg/8KYawCuG).
+---
 
 <div align="center">
 

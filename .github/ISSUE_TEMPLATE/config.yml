@@ -1,5 +1,11 @@
 blank_issues_enabled: true
 contact_links:
-  - name: CloudBSD
+  - name: CloudBSD AI
+    url: https://cloudbsd.ai
+    about: Project website and directory
+  - name: CloudBSD Platform
     url: https://cloudbsd.org
-    about: Project website
+    about: Core platform website
+  - name: Discord
+    url: https://discord.gg/8KYawCuG
+    about: CloudBSD Community Discord
